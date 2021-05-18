@@ -1,2 +1,2 @@
 # Restaurant-App
-Restaurant Locatort App in Swift
+Restaurant Locator App in Swift
